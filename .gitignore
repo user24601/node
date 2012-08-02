@@ -1,7 +1,6 @@
 core
 vgcore.*
 .waf*
-tags
 .lock-wscript
 *.pyc
 doc/api.xml
